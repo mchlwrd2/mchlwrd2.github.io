@@ -6,13 +6,19 @@ tags: ["work","financial-wellness", "development", "ux-design", "banking"]
 description: "A concept for integrating interest transparency into digital banking platforms."
 ---
 
+### Buy Now, Pay Later is a big problem
+
 For years, I've thought that it's difficult for people to internalize and understand how interest rates work. I've known people who seek high interest rates on checking accounts with an average balance less than $2k, and others who shrug off carrying a credit card balance because they can cover the monthly minimum; penny wise, pound foolish.
 
 Interest is the tool that normalizes for the present value of money. Visa is happy to issue an unsecured short-ish term $5k loan for a couple of reasons, but the one that burns people the most is not understanding how quickly it adds up. 
 
+Moreover, it seems ever more common to pursue immediate gratification with no regard to that future payment. How many times do we hear "that's a problem for future me," from a friend to justify a purchase, as if it somehow making everyone aware of that they know the decision is bad somehow makes it better since it's acknowledged?
+
 
 
 ### What can we do about this?
+
+We can give mobile banking users the option to put that interest front and center in their primary banking app.
 
 Credit card statements typically include some section that describes how long it will take to pay off with monthly minimums only and how much that might cost over time, but in the age of the automatic payment and PFM tools, I’d wonder how many people even see their statements anymore.
 
@@ -23,8 +29,6 @@ The base example highlights how a $5,000 purchase at 21% APR over 24 months resu
 ![Payoff Calculator UI](/documents/CalcScreenshotSmall.png)
 *$5k turns into $6.2k very fast!*
 
-
-https://youtu.be/yAzrd9rqgto
 
 Here's the thing, just be nice: mchlwrd2.com/calc3
 
