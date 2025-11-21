@@ -22,9 +22,9 @@ We can give mobile banking users the option to put that interest front and cente
 
 Credit card statements typically include some section that describes how long it will take to pay off with monthly minimums only and how much that might cost over time, but in the age of the automatic payment and PFM tools, I’d wonder how many people even see their statements anymore.
 
-Between a third and a half of digital banking users check their app every multiple times a week. Moreover, an FI has a vested interest in the financial security and education of their customers/members. With all of that in mind, I built this simple interest calculator as a proof of concept to integrate within Banno digital banking.
+Between a third and a half of digital banking users check their app every multiple times a week. Moreover, an FI has a vested interest in the financial security and education of their customers/members. With all of that in mind, I built this simple interest calculator as a proof of concept to integrate within Banno digital banking. The widget runs locally on my machine and embeds within the Jack Henry dev environment.
 
-The base example highlights how a $5,000 purchase at 21% APR over 24 months results in interest costs exceeding 20% of the original price.
+The base example highlights how a $5,000 purchase at 21% APR over 24 months results in interest costs exceeding 20% of the original price. The size of the widget would obviously need to collapse and there might be other opportunities, like a pdf export possibly leveraging some mild amount of AI or templating, but I'm taking baby steps.
 
 ![Payoff Calculator UI](/documents/CalcScreenshotSmall.png)
 *$5k turns into $6.2k very fast!*
